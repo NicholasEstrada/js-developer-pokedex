@@ -22,3 +22,39 @@ body {
         border-radius: 1rem;
     }
 }
+
+.modal{
+    background-color: rgb(88, 95, 95);
+    border-radius: 3rem;
+    padding: 10px;
+}
+
+.modal #img{
+    margin-left: 16pc;
+}
+
+.modal .close{
+    color: rgb(238, 7, 7);
+}
+
+.modal h3{
+    font-family:'Courier New', Courier, monospace;
+    align-items: center;
+
+}
+
+.modal{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.poke{
+    border-radius: 3rem;
+}
+
+.nomePokemon{
+    text-align: center;
+}
+
+.infosPokemon{
+    padding: 2rem;
+}
